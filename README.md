@@ -1,7 +1,7 @@
 # Draw-a-star
 画五角星
 
-See the [GIF](http://www.jianshu.com/p/8fd2da39df76)
+## See the [GIF](http://www.jianshu.com/p/8fd2da39df76)
 
 ```
 //画五角星 - draw pentagram in view.
