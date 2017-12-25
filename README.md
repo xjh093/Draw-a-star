@@ -2,6 +2,7 @@
 画五角星
 
 ## See the [GIF](http://www.jianshu.com/p/8fd2da39df76)
+![image](https://github.com/xjh093/Draw-a-star/blob/master/Draw-a-star.gif)
 
 ```
 //画五角星 - draw pentagram in view.
